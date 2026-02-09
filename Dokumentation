@@ -7,3 +7,35 @@ PlateScan ist eine Webanwendung, die es ermöglicht, Fahrzeughalter über ihr Ke
 Das Projekt wird als Blazor Web App mit Server-Side Rendering und Client-Interaktivität umgesetzt.
 
 ---
+
+## 2. Ziel des Projekts
+
+Ziel des Projekts ist die Konzeption und technische Vorbereitung einer sicheren Softwarelösung, die folgende Funktionen bietet:
+
+- Registrierung von Benutzern
+- Verschlüsselte Speicherung von Fahrzeugkennzeichen
+- Suche nach Kennzeichen
+- Anonyme Kommunikation über einen In-App-Chat
+
+Ein weiteres zentrales Ziel ist die praxisnahe Vertiefung meiner Kenntnisse in den Bereichen:
+
+- Webentwicklung mit C# und Blazor
+- Datenbankdesign
+- IT-Sicherheit
+- Softwarearchitektur
+
+---
+
+## 3. Ausgangslage und Problemstellung
+
+Im Alltag entstehen häufig Situationen, in denen ein Fahrzeughalter kontaktiert werden müsste, jedoch keine direkte Kontaktmöglichkeit besteht. Gleichzeitig dürfen persönliche Daten aus Datenschutzgründen nicht öffentlich zugänglich sein.
+
+Bestehende Lösungen sind oft:
+
+- nicht anonym
+- unsicher
+- technisch veraltet
+
+Daraus ergibt sich der Bedarf an einer Lösung, die sicher, anonym und benutzerfreundlich ist.
+
+---
