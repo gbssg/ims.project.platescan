@@ -39,3 +39,31 @@ Bestehende Lösungen sind oft:
 Daraus ergibt sich der Bedarf an einer Lösung, die sicher, anonym und benutzerfreundlich ist.
 
 ---
+
+## 4. Lösungsansatz
+
+PlateScan verfolgt einen klar strukturierten und sicherheitsorientierten Ansatz:
+
+- Benutzer registrieren sich in der Anwendung
+- Fahrzeugkennzeichen werden verschlüsselt gespeichert
+- Suchvorgänge erfolgen über Hash-Werte statt Klartext
+- Die Kommunikatin erfolgt über eine interne chat
+- Datenschutz und Sicherheit haben höchste Priorität
+
+Die Anwendung wird modular aufgebaut, um spätere Erweiterungen und neue Funktion problemlos integrieren zu können.
+
+---
+
+## 5. Aktueller Stand des Projekts
+
+Die vollständige Umsetzung der Anwendung wurde bisher noch nicht begonnen. Der Fokus lag bewusst auf der Planungs- und Konzeptionsphase, da eine saubere Architektur die Grundlage für eine erfolgreiche Implementierung darstellt.
+
+Bereits abgeschlossen sind:
+
+- Projektidee und Zieldefinition
+- Projektantrag
+- Projektstrukturplan
+
+Zusätzlich wurde als technische Challenge ein separater OCR-Prototype zur Kennzeichenerkennung entwickelt. Dieser dient dazu, erste praktische Erfahrung mit Bildverarbeitung und Texterkennung zu sammeln sowie ein Zeitgefühl für die einschätzung der Projektetappen zu bekommen.
+
+---
