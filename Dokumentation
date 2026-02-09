@@ -67,3 +67,37 @@ Bereits abgeschlossen sind:
 Zusätzlich wurde als technische Challenge ein separater OCR-Prototype zur Kennzeichenerkennung entwickelt. Dieser dient dazu, erste praktische Erfahrung mit Bildverarbeitung und Texterkennung zu sammeln sowie ein Zeitgefühl für die einschätzung der Projektetappen zu bekommen.
 
 ---
+
+## 6. OCR-Prototyp (Challenge)
+
+Der OCR-Prototyp wurde unabhängig vom Hauptprojekt umgesetzt und dient der Erkennung von Kennzeichen aus Bildern.
+
+Ziele dieses Prototyps waren:
+
+- Prüfung der technischen Machbarkeit
+- Kennenlernen von OCR-Technologien
+- Vorbereitung auf eine mögliche spätere Integration in PlateScan
+
+Die OCR-Funktion ist aktuell nicht produktiv integriert stellt jedoch eine wichtige Grundlage für die geplante Kennzeichensuche dar.
+
+---
+
+## 7. Geplante Umsetzung
+
+Die Umsetzung des Projekts ist in folgende Hauptphasen unterteilt:
+
+1. Technische Grundstruktur (Blazor, Authentifizierung)
+2. Datenbank-Implementierung
+3. Kennzeichen-Registrierung
+4. Kennzeichensuche
+5. Chat-Funktion
+6. Sicherheitsfunktionen (z. B. Rate Limiting, Blockieren, Melden)
+7. Tests und Dokumentation
+
+---
+
+## 8. Fazit
+
+Auch wenn die vollständige Umsetzung noch nicht gestartet wurde, ist das Projekt PlateScan technisch und konzeptionell gut vorbereitet. Durch die intensive Planungsphase sowie den bereits entwickelten OCR-Prototyp existiert eine solide Grundlage für die weitere Entwicklung.
+
+Das Projekt bietet ein hohes Lernpotenzial und orientiert sich an realen Anforderungen aus der Praxis, insbesondere im Bereich Datenschutz und sichere Kommunikation.
