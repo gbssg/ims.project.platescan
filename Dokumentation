@@ -1,1 +1,9 @@
 # Projektdokumentation – PlateScan
+
+## 1. Projektübersicht
+
+PlateScan ist eine Webanwendung, die es ermöglicht, Fahrzeughalter über ihr Kennzeichen anonym und datenschutzkonform zu kontaktieren. Die Anwendung richtet sich an Alltagssituationen wie Parkprobleme, Fahrzeugmeldungen oder kurze Mitteilungen, ohne dass persönliche Kontaktdaten offengelegt werden müssen.
+
+Das Projekt wird als Blazor Web App mit Server-Side Rendering und Client-Interaktivität umgesetzt.
+
+---
